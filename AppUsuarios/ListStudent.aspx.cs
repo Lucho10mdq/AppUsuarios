@@ -13,8 +13,10 @@ namespace AppUsuarios
         StudentController StudentList;
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["Login"] == null)
+            if (Session["UserLogin"] == null)
+            {
                 Response.Redirect("Login.aspx");
+            }
             else
             {
                 StudentList = (StudentController)Session["studenList"];

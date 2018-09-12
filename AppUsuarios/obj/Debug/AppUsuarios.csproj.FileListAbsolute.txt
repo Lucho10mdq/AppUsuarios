@@ -35,3 +35,40 @@ C:\Users\SER\Documents\Practica Profesional\Web\AppUsuarios\AppUsuarios\bin\Mode
 C:\Users\SER\Documents\Practica Profesional\Web\AppUsuarios\AppUsuarios\bin\Modelo.pdb
 C:\Users\SER\Documents\Practica Profesional\Web\AppUsuarios\AppUsuarios\bin\Controller.dll
 C:\Users\SER\Documents\Practica Profesional\Web\AppUsuarios\AppUsuarios\bin\Controller.pdb
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\ApplicationInsights.config
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\csc.exe
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\vbc.exe
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\VBCSCompiler.exe
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\AppUsuarios.dll.config
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\AppUsuarios.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\AppUsuarios.pdb
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Controller.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.Web.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Modelo.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Controller.pdb
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Modelo.pdb
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.Web.xml
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.csprojResolveAssemblyReference.cache
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\AppUsuarios\obj\Debug\AppUsuarios.pdb

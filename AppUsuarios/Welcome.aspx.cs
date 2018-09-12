@@ -14,7 +14,9 @@ namespace AppUsuarios
         UserController UserList = new UserController();
         protected void Page_Load(object sender, EventArgs e)
         {
-         
+            if (Session["UserLogin"] == null){
+                Response.Redirect("Login.aspx");
+            }
         }
     }
 }

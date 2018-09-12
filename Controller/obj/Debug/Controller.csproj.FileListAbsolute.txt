@@ -5,3 +5,10 @@ C:\Users\SER\Documents\Practica Profesional\Web\AppUsuarios\Controller\bin\Debug
 C:\Users\SER\Documents\Practica Profesional\Web\AppUsuarios\Controller\bin\Debug\Modelo.pdb
 C:\Users\SER\Documents\Practica Profesional\Web\AppUsuarios\Controller\obj\Debug\Controller.dll
 C:\Users\SER\Documents\Practica Profesional\Web\AppUsuarios\Controller\obj\Debug\Controller.pdb
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\Controller\bin\Debug\Controller.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\Controller\bin\Debug\Controller.pdb
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\Controller\bin\Debug\Modelo.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\Controller\bin\Debug\Modelo.pdb
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\Controller\obj\Debug\Controller.dll
+C:\Users\hilet.HILET\Documents\Practico\AppUsuarios\Controller\obj\Debug\Controller.pdb

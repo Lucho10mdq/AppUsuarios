@@ -27,7 +27,10 @@ namespace AppUsuarios
 
             oUser = UserList.GetUserByEmail(email, password);
             if (oUser != null)
+            {
+                Session["UserLogin"] = oUser;
                 Response.Redirect("Welcome.aspx");
+            }   
             else
                 Response.Write("El Usuario no Existe");
         }
