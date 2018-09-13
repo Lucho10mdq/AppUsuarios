@@ -25,7 +25,8 @@
               </a>
               <a class="navbar-brand">Bienvenidos</a>
               <a class="navbar-brand" href="AgreeStudent.aspx"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>Agregar Alumno</a>  
-                <a class="navbar-brand" href="ListStudent.aspx"><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span>Listado de Alumnos</a>
+              <a class="navbar-brand" href="ListStudent.aspx"><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span>Listado de Alumnos</a>
+              <a class="navbar-brand" href="ModifyStudent.aspx"><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span>Modificar Alumno</a>
               <a class="navbar-brand" href="Login.aspx"><span class="glyphicon glyphicon-log-out" aria-hidden="true"></span>Salir</a>  
             </div>
           </div>

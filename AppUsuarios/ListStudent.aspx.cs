@@ -13,16 +13,16 @@ namespace AppUsuarios
         StudentController StudentList;
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["UserLogin"] == null)
+           /* if (Session["UserLogin"] == null)
             {
                 Response.Redirect("Login.aspx");
             }
             else
-            {
+            {*/
                 StudentList = (StudentController)Session["studenList"];
                 gridAlumnos.DataSource = StudentList.StudentAll();
                 gridAlumnos.DataBind();
-            }
+            //}
             
         }
     }
